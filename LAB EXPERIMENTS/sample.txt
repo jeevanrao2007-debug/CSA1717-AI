@@ -1,0 +1,1 @@
+Welcome to Python programming.This is a file handling example.This line is appended.
